@@ -1,0 +1,5 @@
+{
+  "name": "Lüftungsassistent Card",
+  "version": "1.0.0",
+  "description": "Dynamische Home Assistant Lovelace-Karte für Lüftungsempfehlungen."
+}
