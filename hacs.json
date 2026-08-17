@@ -1,7 +1,7 @@
 {
   "name": "Lüftungsassistent Card",
-  "content_in_root": false,
-  "filename": "dist/lueftungsassistent-card.js",
+  "content_in_root": true,
+  "filename": "lueftungsassistent-card2.js",
   "render_readme": true,
   "homeassistant": "2024.1.0"
 }
